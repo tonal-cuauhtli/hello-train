@@ -1,5 +1,5 @@
 
 
 
-def add(x,9):
+def add(x,y):
     return int(x)+int(y)
